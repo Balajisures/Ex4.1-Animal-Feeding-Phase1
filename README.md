@@ -124,7 +124,7 @@ public class MoveForward : MonoBehaviour
 
 ## Output:
 
-![alt text](image.png)
+![WhatsApp Image 2025-10-28 at 21 55 31_441f8761](https://github.com/user-attachments/assets/0622ad5c-1034-4ae2-9847-54d53ba0e20b)
 
 ## Result:
 Thus,Animal feeding game-Phase-1 using unity is developed successfully.
